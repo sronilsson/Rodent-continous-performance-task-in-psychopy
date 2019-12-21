@@ -1,6 +1,6 @@
-# Rodent continous performance task written in python 
-## Rodents respond by capacitance touch detected by the [CapSense](https://playground.arduino.cc/Main/CapacitiveSensor/) library
-## Stimuli are controlled by [PsychoPy](https://www.psychopy.org/) 
+## Rodent continous performance task written in python 
+### Rodents respond by capacitance touch detected by the [CapSense](https://playground.arduino.cc/Main/CapacitiveSensor/) library
+### Stimuli are controlled by [PsychoPy](https://www.psychopy.org/) 
 
 
 ![alt-text-1](/images/distractors.jpg "Touchscreen operant box version 1") 
