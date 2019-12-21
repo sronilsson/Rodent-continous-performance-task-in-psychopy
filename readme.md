@@ -12,9 +12,15 @@
 ##### Set the test parameters for each box through [ConfigParser](https://docs.python.org/2/library/configparser.html)
 ![alt-text-1](/images/Image3.jpg "parameters")
 
-##### Monitor the peformance of animals across multiple boxes using [onfigperser](https://docs.python.org/2/library/configparser.html)
-![alt-text-1](/images/Image1.jpg "Touchscreen operant box version 2")
-![alt-text-1](/images/Image2.jpg "Touchscreen operant box version 2")
+##### Monitor live peformance of animals across multiple boxes on a PC, OS, or RaspberryPi in [tabulate] (https://pypi.org/project/tabulate/) window
+![alt-text-1](/images/Image1.jpg "monitor")
+
+##### Easy access to descriptive statistics for blocks of days and multiple animals
+![alt-text-1](/images/Image2.jpg "descriptive statistics")
+
+##### Demo starting up rCPT locally, on one rodent tablet
 ![alt-text-1](/images/rCPT_demo.gif "Operant box misc")
+
+##### Demo running descriptive statistics on blocks of days
 ![alt-text-1](/images/data_demo.gif "Operant box misc")
  
