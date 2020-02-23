@@ -3,6 +3,8 @@
 
 #### The rCPT program mirrors and extends the functionality of VisualBasic version and [commercial Lafayette version](http://lafayetteneuroscience.com/products/image-cpt-rats) of the task used in these papers: [[Chi Hun et al. 2015]](https://link.springer.com/article/10.1007/s00213-015-4081-0), [[Mar et al. 2017]](https://link.springer.com/article/10.1007/s00213-017-4679-5), [[Hvoslef-Eide et al 2018]](http://journals.sagepub.com/doi/abs/10.1177/2398212818772962), [[Nilsson et al. 2018]](https://www.nature.com/articles/s41398-018-0295-3.pdf?origin=ppub). 
 
+![alt-text-1](/images/CPT_1.jpg "Distractors")
+
 ##### The PsychoPy version supports distractors and stimuli fading.
 ![alt-text-1](/images/distractors.jpg "Distractors")
 
